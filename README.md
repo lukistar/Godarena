@@ -1,7 +1,6 @@
 ## Godarena
   2D game arena that will be using SDL for the `draw and event` part.
 ## Features
-  <br/>
   Dinamic terrain - comming soon.
   <br/>
   <br/>
