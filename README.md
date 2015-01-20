@@ -1,10 +1,10 @@
 # Godarena
   2D game arena that will be using SDL for the `draw and event` part.
 # Features
-  ##Dinamic terrain - comming soon.
-  ##Multiplayer - comming soon.
-  ##AI - comming soon.
-  ##Custom units, gods(heroes), bots, events, audio, models and much more - comming soon.
+  #Dinamic terrain - comming soon.
+  #Multiplayer - comming soon.
+  #AI - comming soon.
+  #Custom units, gods(heroes), bots, events, audio, models and much more - comming soon.
 # How to install
   go get github.com/lukistar/Godarena
 # Dependencies
