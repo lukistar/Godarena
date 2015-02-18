@@ -12,7 +12,7 @@
   go get github.com/lukistar/Godarena
 ## Dependencies
   https://github.com/veandco/go-sdl2 for the draw part. If you want to use only the game logic you won't need it.
-### For Windows and SDL2:
+#### For Windows and SDL2:
   You can just install mingw and download SDL2-devel-2.0.3-mingw.tar.gz (MinGW 32/64-bit) from http://libsdl.org/download-2.0.php<br/>
   <br>Extract.<br/> 
   <br>If you are using 64bit mingw copy the files from `SDL2-2.0.3/x86_64-w64-mingw32` and merge them with your mingw folder.<br/>
