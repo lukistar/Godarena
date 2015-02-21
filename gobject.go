@@ -1,4 +1,5 @@
+package logic
+
 type Gobject interface {
-    Update()
-    Draw()
+	Update()
 }

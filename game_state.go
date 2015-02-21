@@ -1,3 +1,0 @@
-type GameState interface {
-    Logic()
-}

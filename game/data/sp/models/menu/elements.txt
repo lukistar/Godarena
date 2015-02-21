@@ -1,0 +1,9 @@
+###fonts
+Iskoola Pota Bold
+Gungsuh
+Andalus - !!!!
+
+###colours
+ecdcdc
+ac7979
+
