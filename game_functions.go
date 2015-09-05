@@ -18,9 +18,9 @@ func GenerateField(x, y int) int {
 			return i
 		}
 	}
-	return TilesCount // Who knows... just in case. 
+	return TilesCount // Who knows... just in case.
 }
 
 func RandomInt(min, max int) int {
-	return rand.Intn(max - min) + min
+	return rand.Intn(max-min) + min
 }
